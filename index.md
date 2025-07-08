@@ -1,35 +1,42 @@
 ---
-title: Home
+title: AppBuilder Documentation
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+Welcome to the **AppBuilder Documentation Site**!
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+This site is your comprehensive resource for learning, using, and contributing to AppBuilder. Here you will find guides, concepts, API references, tutorials, and best practices for building with AppBuilder.
 
-More specifically, the created site:
+## Getting Started
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+- **Browse the Sidebar:** Use the navigation sidebar to explore topics by category, such as development, user guides, mobile, plugins, and more.
+- **Search:** Use the search bar at the top to quickly find pages, keywords, or topics.
+- **Categories:** Each section groups related documentation for easier discovery. Click on a category to see all related pages.
+- **Page Structure:** Most pages start with an overview, followed by step-by-step guides, images, and examples.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+## Tips for Using This Documentation
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+- **Static Site:** This documentation is a static site built with Jekyll and the Just the Docs theme. All content is written in Markdown and organized by topic.
+- **Internal Links:** Click on links within the documentation to jump between related topics.
+- **Images & Examples:** Many pages include screenshots and code snippets to help you understand concepts quickly.
+- **Breadcrumbs:** Use the breadcrumbs at the top of each page to navigate back to parent topics.
+- **Contributing:** Want to improve the docs? See the [Contributing Guide](CONTRIBUTING.md) for how to add or update content.
 
-To get started with creating a site, simply:
+## Running Locally
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+You can run this documentation site locally to preview changes before publishing:
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+```bash
+bundle install
+bundle exec jekyll serve
+```
 
-----
+Then open [http://localhost:4000](http://localhost:4000) in your browser.
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+## About AppBuilder
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+AppBuilder is a powerful platform for building, customizing, and managing applications. Whether you're a developer, admin, or end user, this documentation will help you get the most out of AppBuilder.
+
+---
+
+If you have suggestions or find something missing, please open an issue or submit a pull request!
