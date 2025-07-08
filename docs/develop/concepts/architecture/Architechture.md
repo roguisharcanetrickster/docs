@@ -1,6 +1,7 @@
 ---
 title: Architecture Overview
 category: dev-concepts
+layout: page
 ---
 
 AppBuilder implements an Microservice Archtecture with a number of containerized services. Services are run in docker containers, typically deployed through docker swarm.

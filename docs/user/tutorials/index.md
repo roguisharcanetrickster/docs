@@ -3,6 +3,6 @@ title: Tutorials
 is-category: tutorial
 category: user
 description: Examples explaining AppBuilder concepts
-layout: index
+layout: page
 icon: fa-chalkboard-teacher
 ---

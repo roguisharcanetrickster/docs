@@ -29,7 +29,7 @@ To add an extra plugin, you need to add it in the `Gemfile` *and* in `_config.ym
 
   ```ruby
   gem "jekyll-default-layout"
-  ```
+  ```BackendDesign
 
 - And add the following to your site's `_config.yml`:
 

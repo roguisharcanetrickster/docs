@@ -2,6 +2,6 @@
 title: User Docs
 is-category: user
 category: home
-layout: index
+layout: page
 icon: fa-user
 ---

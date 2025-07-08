@@ -1,6 +1,7 @@
 ---
 category: widgets
 title: Docx Builder
+layout: page
 ---
 
 Adds a button to download a custom report made using a docx template.

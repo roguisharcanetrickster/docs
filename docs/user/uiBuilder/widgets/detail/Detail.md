@@ -1,6 +1,7 @@
 ---
 category: widgets
 title: Detail
+layout: page
 ---
 Displays the details of one record in a given data collection. Any page with a detail widget can be used as a linked detail page from certain widgets (given they use the same data collection).
 

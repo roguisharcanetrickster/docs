@@ -2,6 +2,6 @@
 title: Permissions
 is-category: permissions
 category: user
-layout: index
+layout: page
 icon: fa-user-shield
 ---

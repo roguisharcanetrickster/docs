@@ -2,7 +2,7 @@
 title: Develop
 is-category: develop
 category: home
-layout: index
+layout: page
 icon: fa-laptop-code
 ---
 <!--

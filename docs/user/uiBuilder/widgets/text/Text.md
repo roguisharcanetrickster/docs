@@ -1,6 +1,7 @@
 ---
 category: widgets
 title: Text
+layout: page
 ---
 
 Use a rich text editor to create a template. Data will displayed according to the template on the live page.

@@ -73,7 +73,7 @@ To add a category simply add a markdown file `myCategory.md` with the following 
 title: My category
 description: An optional description of my category
 is-category: myCategory
-layout: index
+layout: page
 category: parentCategory
 icon: fa-icon (optional)
 ```

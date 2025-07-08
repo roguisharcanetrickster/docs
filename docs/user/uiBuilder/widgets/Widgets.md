@@ -2,6 +2,6 @@
 title: Widgets
 category: ui
 is-category: widgets
-layout: index
+layout: page
 fa-icon: fa-boxes
 ---

@@ -1,6 +1,7 @@
 ---
 category: widgets
 title: Menu
+layout: page
 ---
 
 Displays a menu bar with a title and links to other pages.

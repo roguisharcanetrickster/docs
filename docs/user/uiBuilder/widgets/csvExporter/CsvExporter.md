@@ -1,6 +1,7 @@
 ---
 category: widgets
 title: CSV Exporter
+layout: page
 ---
 
 This widget will display a button that creates a CSV file based on the Data Collection it is configured with.

@@ -2,6 +2,6 @@
 title: Object Builder
 is-category: objectBuilder
 category: user
-layout: index
+layout: page
 icon: fa-user
 ---

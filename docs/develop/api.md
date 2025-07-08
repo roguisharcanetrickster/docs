@@ -2,6 +2,6 @@
 title: API
 is-category: api
 category: develop
-layout: index
+layout: page
 icon: fa-cogs
 --- -->

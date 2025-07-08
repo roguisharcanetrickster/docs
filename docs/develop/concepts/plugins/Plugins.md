@@ -2,7 +2,7 @@
 title: Plugins
 category: dev-concepts
 is-category: plugin
-layout: index
+layout: page
 icon: fa-puzzle-piece
 ---
 

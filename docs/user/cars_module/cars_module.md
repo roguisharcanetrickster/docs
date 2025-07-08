@@ -2,6 +2,6 @@
 title: CARs Module
 is-category: CARs Module
 category: user
-layout: index
+layout: page
 icon: fa-user-shield
 ---

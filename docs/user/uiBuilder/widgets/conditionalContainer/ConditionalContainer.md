@@ -1,6 +1,7 @@
 ---
 category: widgets
 title: Conditional Container
+layout: page
 ---
 
 The conditional container allows to different items to be shown to a user based on a condition.

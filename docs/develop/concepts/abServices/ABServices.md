@@ -1,6 +1,8 @@
 ---
 title: AppBuilder Services
 category: dev-concepts
+layout: page
+parent: Concepts
 ---
 
 As of version 2, AppBuilder is deployed as a docker swarm with the following services:

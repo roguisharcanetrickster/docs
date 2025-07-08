@@ -1,6 +1,7 @@
 ---
 title: AppBuilder Backend Design
 category: dev-concepts
+layout: page
 ---
 _Draft: Updated 01-Oct-2020_  
 [Original Google Doc](https://docs.google.com/document/d/19MqSXec6je2YkFUOnr7c5pDhP9odYYbK3zI79XRqUEo/edit)
