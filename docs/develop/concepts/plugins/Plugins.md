@@ -1,4 +1,5 @@
 ---
+parent: Concepts
 title: Plugins
 category: dev-concepts
 is-category: plugin

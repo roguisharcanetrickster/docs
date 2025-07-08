@@ -1,4 +1,5 @@
 ---
+parent: Concepts
 title: Architecture Overview
 category: dev-concepts
 layout: page

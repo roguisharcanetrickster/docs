@@ -1,4 +1,5 @@
 ---
+parent: Testing
 title: Continuous Integration E2E Test Runs
 category: test
 ---

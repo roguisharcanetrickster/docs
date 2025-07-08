@@ -1,4 +1,5 @@
 ---
+parent: Concepts
 title: Tenants
 category: dev-concepts
 ---

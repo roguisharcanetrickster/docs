@@ -1,4 +1,5 @@
 ---
+parent: Concepts
 title: ABDesigner Real Time Notifications
 category: plugin
 ---
