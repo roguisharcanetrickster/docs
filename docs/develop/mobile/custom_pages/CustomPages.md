@@ -1,4 +1,5 @@
 ---
+parent: Mobile
 title: Mobile Custom Page
 description: mobile-custom and updating Data
 category: mobile

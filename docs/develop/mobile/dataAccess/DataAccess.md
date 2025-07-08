@@ -1,4 +1,5 @@
 ---
+parent: Mobile
 title: Mobile Framework
 description: Framework Objects and Local Data
 category: mobile

@@ -1,7 +1,6 @@
 ---
-parent: Testing
 layout: page
-title: Testing
+title: Standards
 category: develop
 is-category: test
 parent: Develop

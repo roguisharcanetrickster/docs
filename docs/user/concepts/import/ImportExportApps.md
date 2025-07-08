@@ -1,6 +1,7 @@
 ---
 category: user
 title: Importing and Exporting Apps
+parent: Concepts
 ---
 
 App definitions can be exported and imported. This allows apps to be shared to other servers, and can be a way of backing up work.

@@ -1,6 +1,7 @@
 ---
 title: Process Manager Guide
 category: process
+parent: 
 ---
 ## BPMN Basics
 

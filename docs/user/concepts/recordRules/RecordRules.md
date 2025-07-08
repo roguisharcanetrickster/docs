@@ -1,6 +1,7 @@
 ---
 title: Record Rules
 category: user
+parent: Concepts
 ---
 Record rules can be added to [forms](../../uiBuilder/widgets/form/Form.md) to change data after the form is submitted. They can also be applied to records imported using the [CSV Importer](../../uiBuilder/widgets/csvImporter/CsvImporter.md).
 

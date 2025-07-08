@@ -1,7 +1,8 @@
 ---
-title: User Docs
+title: User
 is-category: user
-category: home
+category: user
+description: For users of appbuilder
 layout: page
-icon: fa-user
+icon: fa-chalkboard-teacher
 ---

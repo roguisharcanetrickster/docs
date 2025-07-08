@@ -1,4 +1,6 @@
 ---
+parent: UI_Builder
+parent: widgets
 category: widgets
 title: Detail
 layout: page

@@ -1,4 +1,5 @@
 ---
+parent: UI Builder
 category: widgets
 title: Carousel
 description: Display a set of images

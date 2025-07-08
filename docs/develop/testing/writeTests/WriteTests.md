@@ -1,6 +1,8 @@
 ---
+parent: Testing
 title: Writing E2E Tests
 category: test
+parent: Testing
 ---
 
 ## Adding Tests

@@ -5,4 +5,5 @@ category: user
 is-category: process
 layout: page
 icon: fa-code-branch
+parent: User
 ---

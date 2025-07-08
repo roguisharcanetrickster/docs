@@ -1,4 +1,5 @@
 ---
+parent: UI Builder
 title: Widgets
 category: ui
 is-category: widgets

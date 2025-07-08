@@ -1,4 +1,5 @@
 ---
+parent: Testing
 title: End-to-End Testing Guide
 category: test
 ---

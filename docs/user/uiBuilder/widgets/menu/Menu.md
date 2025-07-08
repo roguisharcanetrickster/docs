@@ -1,4 +1,5 @@
 ---
+parent: UI Builder
 category: widgets
 title: Menu
 layout: page

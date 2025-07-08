@@ -1,7 +1,8 @@
 ---
-<!-- title: Releases -->
-<!-- category: develop -->
-<!-- description: versioning and release strategy -->
+title: Releases
+description: versioning and release strategy
+layout: page
+parent: Standards
 ---
 This is the release strategy for **[appdevdesigns/app_builder](github.com/appdevdesigns/app_builder)**.
 

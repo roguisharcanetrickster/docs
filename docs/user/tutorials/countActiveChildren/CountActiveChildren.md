@@ -1,4 +1,5 @@
 ---
+parent: Tutorials
 title: How to Count Active Children
 category: tutorial
 description: Example using formula field to get key metrics

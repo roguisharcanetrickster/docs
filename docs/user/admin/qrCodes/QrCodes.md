@@ -1,6 +1,7 @@
 ---
 title: Generating QR Codes
 category: admin
+parent: Admin
 ---
 
 QR codes can be generating from AppBuilder to link user's mobile app to the correct user.

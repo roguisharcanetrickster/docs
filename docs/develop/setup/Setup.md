@@ -1,6 +1,7 @@
 ---
 category: develop
 title: Development Environment Setup
+parent: Develop
 ---
 
 <!-- {% include notification.html status="is-info is-light" message="

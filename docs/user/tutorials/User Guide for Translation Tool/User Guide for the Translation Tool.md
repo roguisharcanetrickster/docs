@@ -1,4 +1,5 @@
 ---
+parent: Tutorials
 title: User Guide for the Translation Tool
 category: tutorial
 description: Explains how to use the Translation Tool

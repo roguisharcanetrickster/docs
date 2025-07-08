@@ -4,4 +4,5 @@ category: user
 is-category: ui
 icon: fa-address-card
 layout: page
+parent: User
 ---

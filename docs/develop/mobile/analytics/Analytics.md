@@ -1,4 +1,5 @@
 ---
+parent: Mobile
 title: Mobile Framework
 description: Using Analytics
 category: mobile
