@@ -1,5 +1,5 @@
 ---
-parent: UI Builder
+parent: User Interface Designer
 title: Widgets
 category: ui
 is-category: widgets

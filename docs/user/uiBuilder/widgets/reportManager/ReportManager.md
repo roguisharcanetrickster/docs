@@ -1,5 +1,5 @@
 ---
-parent: UI Builder
+parent: User Interface Designer
 title: Report Manager
 category: Widget
 description: An interactive widget for creating and viewing reports.

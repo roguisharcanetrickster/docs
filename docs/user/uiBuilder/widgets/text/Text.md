@@ -1,5 +1,5 @@
 ---
-parent: UI Builder
+parent: User Interface Designer
 category: widgets
 title: Text
 layout: page

@@ -1,5 +1,5 @@
 ---
-parent: UI_Builder
+parent: User Interface Designer
 parent: widgets
 category: widgets
 title: Detail

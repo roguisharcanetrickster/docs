@@ -1,5 +1,5 @@
 ---
-title: UI Builder
+title: User Interface Designer
 is-category: tutorial
 category: ui
 description: Examples explaining AppBuilder concepts

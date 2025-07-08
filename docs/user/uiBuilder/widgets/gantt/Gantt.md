@@ -1,5 +1,5 @@
 ---
-parent: UI Builder
+parent: User Interface Designer
 title: Gantt
 category: Widget
 description: Displays tasks in a timeline view for scheduling and project management.
