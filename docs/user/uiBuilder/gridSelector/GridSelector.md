@@ -1,4 +1,5 @@
 ---
+parent: User Interface Designer
 title: Use a Grid as a Selector
 category: ui
 ---

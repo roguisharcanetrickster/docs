@@ -1,4 +1,5 @@
 ---
+parent: Processes
 title: System Task&#58; Insert Record
 description: dynamically create records from a process
 category: process

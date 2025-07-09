@@ -1,4 +1,5 @@
 ---
+parent: CARs Module
 title: Initial Setup
 description: Inital setup of a CARs install on a new server
 category: CARs Module

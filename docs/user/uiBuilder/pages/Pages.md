@@ -1,4 +1,5 @@
 ---
+parent: User
 title: Pages
 category: ui
 ---

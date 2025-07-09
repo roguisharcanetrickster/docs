@@ -1,4 +1,5 @@
 ---
+parent: Permissions
 title: Permissions
 is-category: permissions
 category: user

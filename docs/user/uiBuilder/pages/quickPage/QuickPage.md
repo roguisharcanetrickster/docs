@@ -1,4 +1,5 @@
 ---
+parent: Pages
 category: ui
 title: Quick Page
 ---

@@ -1,4 +1,5 @@
 ---
+parent: User
 title: Tutorials
 is-category: tutorial
 category: user

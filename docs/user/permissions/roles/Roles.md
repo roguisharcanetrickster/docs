@@ -1,4 +1,5 @@
 ---
+parent: Permissions
 title: Roles
 description: Adding and assigning user roles
 category: permissions

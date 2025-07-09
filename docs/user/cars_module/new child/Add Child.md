@@ -1,4 +1,5 @@
 ---
+parent: CARs Module
 title: Add Child
 description: How to add child, and check data
 category: CARs Module

@@ -1,4 +1,5 @@
 ---
+parent: Permissions
 title: Page Access
 description: How to assign page permissions to different roles.
 category: permissions
